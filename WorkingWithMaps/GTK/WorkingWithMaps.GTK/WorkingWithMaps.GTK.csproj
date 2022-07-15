@@ -83,10 +83,10 @@
       <HintPath>..\..\packages\Xamarin.Forms.3.4.0.1039999\lib\netstandard2.0\Xamarin.Forms.Core.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Forms.Maps, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Xamarin.Forms.Maps.3.1.0.697729\lib\netstandard2.0\Xamarin.Forms.Maps.dll</HintPath>
+      <HintPath>..\..\packages\Xamarin.Forms.Maps.3.4.0.1039999\lib\netstandard2.0\Xamarin.Forms.Maps.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Forms.Maps.Design, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Xamarin.Forms.Maps.3.1.0.697729\lib\netstandard2.0\Xamarin.Forms.Maps.Design.dll</HintPath>
+      <HintPath>..\..\packages\Xamarin.Forms.Maps.3.4.0.1039999\lib\netstandard2.0\Xamarin.Forms.Maps.Design.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Forms.Maps.GTK, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.Maps.GTK.3.1.0.697729\lib\net45\Xamarin.Forms.Maps.GTK.dll</HintPath>
