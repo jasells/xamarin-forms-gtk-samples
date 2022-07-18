@@ -192,3 +192,5 @@ UpgradeLog*.htm
 # Microsoft Fakes
 FakesAssemblies/
 
+/WorkingWithMaps/GtkAppPack/Application Files/WorkingWithMaps.GTK_1_0_0_0
+/WorkingWithMaps/GtkAppPack
